@@ -1,0 +1,33 @@
+Sources of objects obtained and used in this project:
+
+Multiple instances:
+
+Motorcycle - https://sketchfab.com/features/free-3d-models
+
+TV (Old_Tv) - https://sketchfab.com/3d-models/sony-trinitron-prl-dce3f599de634388aef1eaf49e3606bf
+
+Sushi (sukeroku) - https://sketchfab.com/3d-models/da300216125247b783e16134e566ff7c
+
+Fixed:
+
+Jaguar car (cx75) - https://sketchfab.com/3d-models/jaguar-cx75-f25b1c4a2cc84446bb032f79fea91bc8
+
+Metal storage building (barn02) - https://sketchfab.com/3d-models/metal-storage-building-2f48782f3c924079a2554113e086b539
+
+Viking watch tower - https://sketchfab.com/3d-models/viking-watch-tower-5cd42c3ef75748e0b57f25247f073d53
+
+Snowman - https://sketchfab.com/3d-models/pubg-bgmi-loot-crate-by-yourex-gaming-8ba8edb0666348c7b8329577f7a06d88
+
+Farm - https://sketchfab.com/3d-models/cartoon-wooden-farm-pack-7256e01f27874814b9752be27e5d1543
+
+Moveable:
+
+Guitar - https://sketchfab.com/3d-models/cort-earth-mini-guitar-a2f3839fa6474c20be17c8ba5ac07188
+
+Fries and drink - https://sketchfab.com/3d-models/french-fries-free-bef5383eb98b48528b2d82d8887b5bb4
+
+Hammer - https://sketchfab.com/3d-models/wooden-hammer-free-999f87c045b54d319ed6bd4468e2f19d
+
+Rust wheel (S_Wheel) - https://sketchfab.com/3d-models/rust-wheel-355bc1bceb1e46d5a0b80585da1ea084
+
+Apple - https://sketchfab.com/3d-models/apple-21e1ebf667d5461784ab416cf1b8f65e
