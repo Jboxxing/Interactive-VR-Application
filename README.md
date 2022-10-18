@@ -1,6 +1,6 @@
 # Interactive-VR-Application
 
-The application requires a Google Daydream headset and the controller.
+The application was built using Unity and requires a Google Daydream headset and the controller.
 
 The application provides mouse and keyboard simulated controls for the viewing camera and teleportation.
 Moving the headset changes the viewing camera accordingly, ie. moving the head (and headset) to the left will result in the focus of the viewing camera moving to the left as well. Teleportation occurs by pointing the controller to a valid point on the ground and pressing the touchpad on the Daydream controller.
