@@ -1,1 +1,10 @@
 # Interactive-VR-Application
+
+The application requires a Google Daydream headset and the controller.
+
+The application provides mouse and keyboard simulated controls for the viewing camera and teleportation.
+Moving the headset changes the viewing camera accordingly, ie. moving the head (and headset) to the left will result in the focus of the viewing camera moving to the left as well. Teleportation occurs by pointing the controller to a valid point on the ground and pressing the touchpad on the Daydream controller.
+
+The ground consists of a plane game object with a collider to detect ray collisions emitted by the Gvr Pointer Physics Raycaster included in the GoogleVR package. There are three instances of the objects (motorcyles, sushis, and TVs) in the Interactive VR Application scene. The scene contains a representation of a robotic arm. The arm is composed of the base, the arm, and the forearm. All parts are derived transformations of a cylinder. The base can translate and rotate on its own axes and applies to the arm and forearm by the same amount and in the same direction (ie. if the base is translated 5 units to the right, the arm and forearm are translated 5 units to the right). Translation and rotation of the arm also applies to the forearm by the same amount and in the same direction. The forearm can also be translated and rotated, however, these transformations do not apply to the other parts.
+
+The scene contains fixed and moveable objects. The empty "Fixed Objects" game object holds the barn, car, snowman, farm, and tower, all of which have fixed positions. The empty "Moveable Objects" game object holds the guitar, hammer, fries and drink, apple, and wheel, all of which are set to an initial position but will vary randomly upon user input. Pressing the touchpad button on the Daydream controller while pointing at a moveable object will result in being able to move that object. If the space bar of the keyboard is also pressed, that object will "disappear" and "reappear" in a randomly generated location on the ground.
