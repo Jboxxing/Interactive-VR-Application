@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 7d6b7ff540b5d974db4c233f0272272b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: another beams
+    100002: another beams 2
+    100004: central roof beam
+    100006: Chamber
+    100008: Chamber corner beams
+    100010: chamber decorative part front
+    100012: chamber decorative part side
+    100014: chamber upper beams
+    100016: decor
+    100018: horns
+    100020: ladder
+    100022: platform
+    100024: primary beams
+    100026: primary beams.002
+    100028: rail
+    100030: roof
+    100032: roof beams
+    100034: ropes
+    100036: secondary beams
+    100038: subplatform central beam
+    100040: subplatform central side beams
+    100042: subplatform front beams
+    100044: subplatform side beams
+    100046: supporting beams front
+    100048: supporting beams side
+    100050: //RootNode
+    400000: another beams
+    400002: another beams 2
+    400004: central roof beam
+    400006: Chamber
+    400008: Chamber corner beams
+    400010: chamber decorative part front
+    400012: chamber decorative part side
+    400014: chamber upper beams
+    400016: decor
+    400018: horns
+    400020: ladder
+    400022: platform
+    400024: primary beams
+    400026: primary beams.002
+    400028: rail
+    400030: roof
+    400032: roof beams
+    400034: ropes
+    400036: secondary beams
+    400038: subplatform central beam
+    400040: subplatform central side beams
+    400042: subplatform front beams
+    400044: subplatform side beams
+    400046: supporting beams front
+    400048: supporting beams side
+    400050: //RootNode
+    2100000: tower
+    2100002: decorations
+    2300000: another beams
+    2300002: another beams 2
+    2300004: central roof beam
+    2300006: Chamber
+    2300008: Chamber corner beams
+    2300010: chamber decorative part front
+    2300012: chamber decorative part side
+    2300014: chamber upper beams
+    2300016: decor
+    2300018: horns
+    2300020: ladder
+    2300022: platform
+    2300024: primary beams
+    2300026: primary beams.002
+    2300028: rail
+    2300030: roof
+    2300032: roof beams
+    2300034: ropes
+    2300036: secondary beams
+    2300038: subplatform central beam
+    2300040: subplatform central side beams
+    2300042: subplatform front beams
+    2300044: subplatform side beams
+    2300046: supporting beams front
+    2300048: supporting beams side
+    3300000: another beams
+    3300002: another beams 2
+    3300004: central roof beam
+    3300006: Chamber
+    3300008: Chamber corner beams
+    3300010: chamber decorative part front
+    3300012: chamber decorative part side
+    3300014: chamber upper beams
+    3300016: decor
+    3300018: horns
+    3300020: ladder
+    3300022: platform
+    3300024: primary beams
+    3300026: primary beams.002
+    3300028: rail
+    3300030: roof
+    3300032: roof beams
+    3300034: ropes
+    3300036: secondary beams
+    3300038: subplatform central beam
+    3300040: subplatform central side beams
+    3300042: subplatform front beams
+    3300044: subplatform side beams
+    3300046: supporting beams front
+    3300048: supporting beams side
+    4300000: primary beams
+    4300002: secondary beams
+    4300004: another beams
+    4300006: another beams 2
+    4300008: platform
+    4300010: subplatform central beam
+    4300012: subplatform front beams
+    4300014: subplatform central side beams
+    4300016: subplatform side beams
+    4300018: supporting beams side
+    4300020: supporting beams front
+    4300022: Chamber
+    4300024: Chamber corner beams
+    4300026: chamber upper beams
+    4300028: chamber decorative part front
+    4300030: chamber decorative part side
+    4300032: roof
+    4300034: central roof beam
+    4300036: roof beams
+    4300038: horns
+    4300040: rail
+    4300042: ladder
+    4300044: decor
+    4300046: ropes
+    4300048: primary beams.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
